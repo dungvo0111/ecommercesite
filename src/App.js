@@ -7,6 +7,7 @@ import About from './pages/About'
 import Shop from './pages/Shop'
 import ItemDetail from './pages/ItemDetail'
 import Home from './pages/Home'
+
 function App() {
   return (
     <Router>

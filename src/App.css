@@ -58,8 +58,9 @@ nav {
   font-family: 'Burbank Big Condensed';
 }
 
-.nav-links li:hover {
-  padding: 0.3em;
+li:hover {
+ font-size: 150%;
+  
 }
 
 
@@ -278,6 +279,7 @@ footer {
 
 .footer-nav li:hover {
   padding: 0.3em;
+
 }
 .footer-nav img {
   width: 30px;
